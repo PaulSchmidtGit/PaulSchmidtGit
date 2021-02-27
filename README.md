@@ -6,4 +6,4 @@ The `Heritability` repository contains R and SAS codes for a number of methods f
  
 Please navigate to the individual folders in that repository and read the respective `Readme.md` files for more information.
 
-
+Feel free to visit [my main Github account](https://github.com/SchmidtPaul).
